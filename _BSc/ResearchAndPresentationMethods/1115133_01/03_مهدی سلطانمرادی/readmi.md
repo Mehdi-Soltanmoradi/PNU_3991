@@ -1,3 +1,5 @@
+# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+
 <div dir="rtl">
 
 # مهدی سلطانمرادی
@@ -5,9 +7,9 @@
 - [GitHub](https://github.com/sultanmoradimehdi)
 - [Resume]( https://sultanmoradimehdi.github.io/resume/)
 - [SOP](https://sultanmoradimehdi.github.io/SOP/)
-- [JavaScript.Certificates](java.png)
-- [HTML.Certificates](HTML.png)
-- [git-patchwork](patchwork.png)
+- [JavaScript.Certificates](https://sultanmoradimehdi.github.io/JavaScript-Certificate/)
+- [HTML.Certificates](https://sultanmoradimehdi.github.io/HTML-Certificates/)
+- [git-patchwork](https://sultanmoradimehdi.github.io/git-patchwork/)
 ---
 ## گروه ها
     
